@@ -9,4 +9,5 @@ object Routes {
     const val CALENDAR = "calendar"
     const val STATS = "stats"
     const val PROFILE = "profile"
+    const val LOGIN = "login"
 }

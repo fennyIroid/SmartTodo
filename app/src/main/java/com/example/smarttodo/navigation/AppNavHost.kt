@@ -100,5 +100,9 @@ fun AppNavHost(
         composable(Routes.PROFILE) {
             ProfileScreen()
         }
+
+        composable(Routes.LOGIN) {
+            com.example.smarttodo.ui.auth.LoginScreen()
+        }
     }
 }
