@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- SageGreen Rounded Box (#8FB397) -->
+    <path
+        android:fillColor="#8FB397"
+        android:pathData="M38,18h32c11.05,0 20,8.95 20,20v32c0,11.05 -8.95,20 -20,20h-32c-11.05,0 -20,-8.95 -20,-20v-32c0,-11.05 8.95,-20 20,-20z" />
+    
+    <!-- White Checkmark path -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,64L38,54L41,51L48,58L67,39L70,42L48,64Z" />
+</vector>
